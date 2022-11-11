@@ -2195,14 +2195,14 @@ progress {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #2937f0;
-  border-color: #2937f0;
+  color: #000;
+  background-color: #DCD45E;
+  border-color: #fefefe;
 }
 .btn-primary:hover {
-  color: #fff;
-  background-color: #232fcc;
-  border-color: #212cc0;
+  color: #000;
+  background-color: #Fbee28;
+  border-color: #fefefe;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
